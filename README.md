@@ -5,5 +5,8 @@ A roblox script hub that finds the best script possible for your game then execu
 Please DM Ad#1234 on Discord or Message (PM) AlexSyndrome on WeAreDevs.net and let us know whatever game that you want to add to UniHub's games list. Also use
 that contact info to let your suggestions reach us (I'm the only developer but okay lol) . Thank you.
 
+NOTE: UniHub is being constantly developed by me, Expect a update on this repo **ANYTIME**.
+
 --Credits:
 Universal script, Used UI Lib: Venyx (Modified for UniHub)
+ 
